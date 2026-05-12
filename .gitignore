@@ -1,0 +1,35 @@
+# Credentials — never push
+linkedin.txt
+
+# Generated data files
+linkedin_urls.xlsx
+*.xlsx
+agent_state.json
+agent_companies.xlsx
+agent_people.xlsx
+agent_profiles.xlsx
+agent_verified.xlsx
+agent_final.xlsx
+
+# Old data folders
+Data/
+Step4/
+Step5/
+20-01-26/
+Investor_phase*/
+fail_html/
+Test/
+Old/
+
+# Excel temp files
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Windows
+Thumbs.db
+desktop.ini
